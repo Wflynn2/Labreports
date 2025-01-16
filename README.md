@@ -7,3 +7,5 @@ Lab reports for Fractal Geometry MTG 6415
 # Notes
 
 Hello World
+
+https://colab.research.google.com/drive/16Q3xpYDwWDexQYb-NaqssZbWqT9nLu7a#scrollTo=PfUv4HXVBgUy
